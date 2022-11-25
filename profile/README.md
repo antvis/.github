@@ -12,3 +12,4 @@
 
 - News！AntV G6 家族再添新成员，一款图分析应用研发平台：[GraphInsight](https://graphinsight.antgroup.com/home.html) 
 - News！[G2 5.0](https://g2-next.antv.vision/) 全新版本开发中，正式版本将于 11.22 和大家见面。
+- News！[LocationInsight](https://locationinsight.antv.antgroup.com/) 免费开放使用了，它是一款地理空间数据可视分析研发平台。
