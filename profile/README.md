@@ -12,4 +12,4 @@
 
 - News！AntV G6 家族再添新成员，一款图分析应用研发平台：[G6VP](https://github.com/antvis/G6VP) 
 - News！[G2 5.0](https://g2.antv.antgroup.com/) beta 版本已经发布，欢迎试用，正式版本预计 2023.03 发布。
-- News！[LocationInsight](https://locationinsight.antv.antgroup.com/) 免费开放使用了，它是一款地理空间数据可视分析研发平台。
+- News！[L7VP](https://github.com/antvis/L7VP) 开源发布了，一款地理空间智能应用研发平台。
