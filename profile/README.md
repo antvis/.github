@@ -1,15 +1,4 @@
-<p align="center">
-  <a href="https://antv.vision">
-    <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
-  </a>
-</p>
+<img src='https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*uYiNQpC8MuEAAAAAAAAAAAAADmJ7AQ/fmt.webp' width='100%'>
 
-<p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
-
-<h2></h2>
-
-<img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
-
-- News！[G6 5.0](https://github.com/antvis/G6/) 已发布 beta 版本，预计 2023.11.22 发布正式版本，快来提提建议参入贡献吧。
-- News！[Ant Design Charts 2.0](https://github.com/antvis/G2/issues/5408) 正在升级 G2 5.0，来围观大量新特性能力。
-- News！[L7VP](https://github.com/antvis/L7VP) 开源发布了，一款地理空间智能应用研发平台。
+- News！AntV 开启 [OSCP 开源共建计划](https://github.com/orgs/antvis/projects/25)，欢迎大家来贡献代码，大量周边礼品，还有蚂蚁开源上链证书哦~
+- News！[G6 5.0](https://github.com/antvis/G6/) 已发布正式，快来来使用，并提建议参入贡献。
