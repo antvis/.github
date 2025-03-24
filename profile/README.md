@@ -6,11 +6,11 @@
 
 <p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
 
-<p align="center">Empowering individuals within the data realm to master visual thinking capabilities through intuitive visualization tools and frameworks.</p>
+<p align="center">Turning data into a visual language for better thinking.</p>
 
 <img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
 
-AntV, initiated by Ant Group and open-sourced starting in 2017, reimagines data visualization by embedding the theory of graphical grammar into the JavaScript language. In response to rigid chart libraries that force a trade-off between flexibility and usability, we have categorized data visualization techniques into four series: 2, 6, 7, and 8, which respectively represent _statistical analysis_, _graph analysis_, _geographical location analysis_, and _unstructured data visualization_. We have expanded these capabilities across different levels, including chart libraries, R&D tools, and AI-powered intelligent visualization.
+AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiated by Ant Group and open-sourced starting in 2017, reimagines data visualization by embedding the theory of graphical grammar into the JavaScript language. In response to rigid chart libraries that force a trade-off between flexibility and usability, we have categorized data visualization techniques into four series: 2, 6, 7, and 8, which respectively represent _statistical analysis_, _graph analysis_, _geographical analysis_, and _unstructured data visualization_. We have expanded these capabilities across different levels, including chart libraries, R&D tools, and AI-powered intelligent visualization.
 
 ## 🎖️ Visualization series
 
@@ -22,7 +22,7 @@ AntV, initiated by Ant Group and open-sourced starting in 2017, reimagines data 
 
 ## ⛳️ How to Contribute
 
-Contributions to AntV on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV - please don't hesitate to reach out to us [here](https://github.com/antvis).
+Contributions to AntV on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/antvis).
 
 ## 📣 News
 
