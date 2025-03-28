@@ -26,4 +26,4 @@ Contributions to AntV on GitHub are welcomed! Whether you have questions, concer
 
 ## 📣 News
 
-- 📖 2025 AntV [OSCP](https://github.com/orgs/antvis/projects/31) Season of Docs, 通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。
+- 📖 2025 AntV [OSCP Season of Docs](https://mp.weixin.qq.com/s/2KmV_lHnwWD3Omw9e7G02w), 通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。
