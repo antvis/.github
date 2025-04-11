@@ -1,3 +1,5 @@
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](/antvis/.github/blob/master/profile/README.zh-CN.md)
+
 <p align="center">
   <a href="https://antv.vision">
     <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
@@ -22,7 +24,7 @@ AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiate
 
 ## ⛳️ How to Contribute
 
-Contributions to AntV on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/antvis).
+Contributions to AntV on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/antvis). ![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
 
 ## 📣 News
 
