@@ -28,4 +28,13 @@ AntV ![stars](https://img.shields.io/github/stars/antvis?style=social) 是由蚂
 
 ## 📣 相关新闻
 
-- 📖 2025 AntV [OSCP Season of Docs](https://mp.weixin.qq.com/s/2KmV_lHnwWD3Omw9e7G02w), 通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。
+- 🎉 2025 AntV [OSCP Season of Docs](https://mp.weixin.qq.com/s/2KmV_lHnwWD3Omw9e7G02w) 活动圆满收官！通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。点击下图回顾精彩内容：
+
+<p align="center">
+  <a href="https://www.openomy.com/party/antvis/31">
+    <img width="80%" src="https://www.openomy.com/party/antvis/oscp-2025/svg">
+  </a>
+</p>
+
+
+- 🚀 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
