@@ -37,4 +37,4 @@ AntV ![stars](https://img.shields.io/github/stars/antvis?style=social) 是由蚂
 </p>
 
 
-- 🐛 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
+- 🚀 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
