@@ -28,12 +28,4 @@ Contributions to AntV on GitHub are welcomed! Whether you have questions, concer
 
 ## 📣 News
 
-- 🎉 2025 [AntV OSCP Parse3 - Season of Docs](https://github.com/orgs/antvis/projects/31) has officially concluded. Huge thanks to all community contributors for helping elevate our documentation quality and accessibility. Click the image below to explore the event highlights:
-
-<p align="center">
-  <a href="https://www.openomy.com/party/antvis/31">
-    <img width="80%" src="https://www.openomy.com/party/antvis/oscp-2025/svg">
-  </a>
-</p>
-
 - 🚀 2025 [AntV OSCP Parse4](https://github.com/orgs/antvis/projects/33) is now live! Join us in shaping a more robust open-source documentation ecosystem. Contribute now—and don’t forget to invite your fellow developers!
