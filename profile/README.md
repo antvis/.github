@@ -19,7 +19,7 @@ AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiate
 - **Series 2**: statistical analysis, named from **G**rammar of **G**raphics, contains [G2](https://github.com/antvis/G2), [S2](https://github.com/antvis/S2), [F2](https://github.com/antvis/F2).
 - **Series 6**: graph analysis and editing, named from 「Six Degrees of Separation」, contains [G6](https://github.com/antvis/G6), [X6](https://github.com/antvis/X6).
 - **Series 7**: geographical analysis, named from 「The Earth has 7 continents」, contains [L7](https://github.com/antvis/L7).
-- **Series 8**: unstructured data visualization, named from 「Möbius strip」or 「1 byte has 8 bits」, contains T8, [A8](https://github.com/antvis/A8), M8.
+- **Series 8**: unstructured data visualization, named from 「Möbius strip」or 「1 byte has 8 bits」, contains [T8](https://github.com/antvis/T8), [A8](https://github.com/antvis/A8), M8.
 - **AI-powered intelligent visualization**: contains [AVA](https://github.com/antvis/AVA), [GPT-Vis](https://github.com/antvis/GPT-Vis) and [mcp-server-chart](https://github.com/antvis/mcp-server-chart).
 
 ## ⛳️ How to Contribute
