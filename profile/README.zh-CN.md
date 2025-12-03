@@ -12,7 +12,7 @@
 
 <img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
 
-AntV ![stars](https://img.shields.io/github/stars/antvis?style=social) 是由蚂蚁集团发起，并自 2017 年起开源，将图形语法理论融入 JavaScript 语言，重新定义了数据可视化。针对传统图表库在灵活性和易用性之间的取舍问题，我们将数据可视化技术分为四大系列：2、6、7 和 8，分别代表 _统计分析_、_图分析_、_地理分析_ 以及 _非结构化数据可视化_，并将这些能力扩展到不同技术方案，包括图表库、研发工具以及 AI 驱动的智能可视化。
+<img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" width="16" /> AntV ![stars](https://img.shields.io/github/stars/antvis?style=social) 是由蚂蚁集团发起，并自 2017 年起开源，将图形语法理论融入 JavaScript 语言，重新定义了数据可视化。针对传统图表库在灵活性和易用性之间的取舍问题，我们将数据可视化技术分为四大系列：2、6、7 和 8，分别代表 _统计分析_、_图分析_、_地理分析_ 以及 _非结构化数据可视化_，并将这些能力扩展到不同技术方案，包括图表库、研发工具以及 AI 驱动的智能可视化。
 
 ## 🎖️ 可视化技术系列
 
