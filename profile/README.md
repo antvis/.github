@@ -10,9 +10,9 @@
 
 <p align="center">Turning data into a visual language for better thinking.</p>
 
-<img src='https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ' width='100%'>
+<img src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*GZNzT45a_UoAAAAAAAAAAAAAARQnAQ" width="100%">
 
-AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiated by Ant Group and open-sourced starting in 2017, reimagines data visualization by embedding the theory of graphical grammar into the JavaScript language. In response to rigid chart libraries that force a trade-off between flexibility and usability, we have categorized data visualization techniques into four series: 2, 6, 7, and 8, which respectively represent _statistical analysis_, _graph analysis_, _geographical analysis_, and _unstructured data visualization_. We have expanded these capabilities across different levels, including chart libraries, R&D tools, and AI-powered intelligent visualization.
+<img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*ZFK8SrovcqgAAAAAAAAAAAAAemJ7AQ/original" width="16" /> AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiated by Ant Group and open-sourced starting in 2017, reimagines data visualization by embedding the theory of graphical grammar into the JavaScript language. In response to rigid chart libraries that force a trade-off between flexibility and usability, we have categorized data visualization techniques into four series: 2, 6, 7, and 8, which respectively represent _statistical analysis_, _graph analysis_, _geographical analysis_, and _unstructured data visualization_. We have expanded these capabilities across different levels, including chart libraries, R&D tools, and AI-powered intelligent visualization.
 
 ## 🎖️ Visualization series
 
@@ -20,7 +20,7 @@ AntV ![stars](https://img.shields.io/github/stars/antvis?style=social), initiate
 - **Series 6**: graph analysis and editing, named from 「Six Degrees of Separation」, contains [G6](https://github.com/antvis/G6), [X6](https://github.com/antvis/X6).
 - **Series 7**: geographical analysis, named from 「The Earth has 7 continents」, contains [L7](https://github.com/antvis/L7).
 - **Series 8**: unstructured data visualization, named from 「Möbius strip」or 「1 byte has 8 bits」, contains [T8](https://github.com/antvis/T8), [A8](https://github.com/antvis/A8), M8.
-- **AI-powered intelligent visualization**: contains [AVA](https://github.com/antvis/AVA), [mcp-server-chart](https://github.com/antvis/mcp-server-chart) and <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16"> [Infographic](https://github.com/antvis/Infographic).
+- **AI-powered intelligent visualization**: contains [AVA](https://github.com/antvis/AVA), [mcp-server-chart](https://github.com/antvis/mcp-server-chart) and <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16" /> [Infographic](https://github.com/antvis/Infographic).
 
 ## ⛳️ How to Contribute
 
