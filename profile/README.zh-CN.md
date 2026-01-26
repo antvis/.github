@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">「让人们在数据世界里获得视觉化思考能力」</p>
+<p align="center">「蚂蚁企业级 AI 数据可视化解决方案，让人们在数据世界里获得视觉化思考能力」</p>
 
 <p align="center">Turning data into a visual language for better thinking.</p>
 
