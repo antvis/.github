@@ -20,7 +20,7 @@
 - **Series 6**: graph analysis and editing, named from 「Six Degrees of Separation」, contains [G6](https://github.com/antvis/G6), [X6](https://github.com/antvis/X6).
 - **Series 7**: geographical analysis, named from 「The Earth has 7 continents」, contains [L7](https://github.com/antvis/L7).
 - **Series 8**: unstructured data visualization, named from 「Möbius strip」or 「1 byte has 8 bits」, contains [T8](https://github.com/antvis/T8), [A8](https://github.com/antvis/A8), M8.
-- **AI-powered intelligent visualization**: contains [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills), [mcp-server-chart](https://github.com/antvis/mcp-server-chart), <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16" /> [Infographic](https://github.com/antvis/Infographic), [AVA](https://github.com/antvis/AVA), and [GPT-Vis](https://github.com/antvis/GPT-Vis).
+- **AI-powered intelligent visualization**: contains [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills), [mcp-server-chart](https://github.com/antvis/mcp-server-chart), <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16" /> [Infographic](https://github.com/antvis/Infographic), [AVA](https://github.com/antvis/AVA) and [GPT-Vis](https://github.com/antvis/GPT-Vis).
 
 ## ⛳️ How to Contribute
 
