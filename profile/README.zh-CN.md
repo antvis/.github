@@ -20,7 +20,7 @@
 - **6 系列**: 图分析和编辑，命名来源于「6 度空间理论」，包含有 [G6](https://github.com/antvis/G6)，[X6](https://github.com/antvis/X6)。
 - **7 系列**: 地理空间可视分析，命名来源于「地球七大洲」，包含有 [L7](https://github.com/antvis/L7)。
 - **8 系列**: 非结构化数据可视化，命名来源于「莫比乌斯带」或者「1 字节有 8 比特」，包含有 [T8](https://github.com/antvis/T8), [A8](https://github.com/antvis/A8)，M8。
-- **AI 驱动智能可视化**: 包含有 [AVA](https://github.com/antvis/AVA)，[mcp](https://github.com/antvis/mcp-server-chart) 和 <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16"> [Infographic](https://github.com/antvis/Infographic)。
+- **AI 驱动智能可视化**: 包含有 [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)，[mcp-server-chart](https://github.com/antvis/mcp-server-chart)，<img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16" /> [Infographic](https://github.com/antvis/Infographic)，[AVA](https://github.com/antvis/AVA) 和 [GPT-Vis](https://github.com/antvis/GPT-Vis)。
 
 ## ⛳️ 如何贡献
 
