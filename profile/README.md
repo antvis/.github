@@ -1,7 +1,7 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/antvis/.github/blob/master/profile/README.zh-CN.md)
 
 
-> ‼️ Note: Due to the impact of the [mini-shai-hulud](https://socket.dev/supply-chain-attacks/mini-shai-hulud) vulnerability, AntV-related NPM packages have been contaminated. Infected packages have now been removed, while some remain and have been marked as **Deprecated**. Please be cautious and ensure you download the latest `latest` version. AntV is actively contacting the NPM platform to have the remaining deprecated packages deleted.
+> ‼️ Due to the impact of an external worm attack, AntV-related NPM packages have been compromised. The infected packages have been deleted, while the remaining ones have been marked as deprecated. Users are advised to carefully identify and download the latest versions. AntV is actively contacting the NPM registry to have the deprecated packages removed.
 
 <p align="center">
   <a href="https://antv.vision">
