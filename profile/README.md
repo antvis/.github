@@ -1,5 +1,8 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/antvis/.github/blob/master/profile/README.zh-CN.md)
 
+
+> ‼️ Due to the impact of an external worm attack, AntV-related NPM packages have been compromised. The infected packages have been deleted, while the remaining ones have been marked as deprecated. Users are advised to carefully identify and download the latest versions. AntV is actively contacting the NPM registry to have the deprecated packages removed.
+
 <p align="center">
   <a href="https://antv.vision">
     <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">

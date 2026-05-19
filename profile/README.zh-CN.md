@@ -1,5 +1,7 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](https://github.com/antvis) | 中文
 
+> ‼️注意：受到外部蠕虫攻击影响的影响，AntV 相关的 NPM  包受到污染，现已经将感染的包删除，还剩余部分已设置为 Deprecated，用户注意甄别下载使用最新的 latest 版本，AntV 正在积极联系 NPM 平台进行删除。
+
 <p align="center">
   <a href="https://antv.vision">
     <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
