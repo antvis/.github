@@ -1,10 +1,10 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/antvis/.github/blob/master/profile/README.zh-CN.md)
 
 > [!NOTE]
-> 📣 At 10 AM on May 18, 2026, NPM packages related to `@antv` were compromised by an external worm attack. All affected packages were deprecated within 1 hour, and NPM official support was contacted to remove all compromised packages within 4 hours. The related vulnerabilities and security risks have now been fully resolved. Affected users are advised to clear their local cache and reinstall dependencies promptly.
+> 📣 At 10 AM on May 19, 2026, NPM packages related to `@antv` were compromised by an external worm attack. All affected packages were deprecated within 1 hour, and NPM official support was contacted to remove all compromised packages within 4 hours. The related vulnerabilities and security risks have now been fully resolved. Affected users are advised to clear their local cache and reinstall dependencies promptly.
 >
 > 
-> 📣 2026-05-18 早上 10 点 `@antv` 相关的 NPM 包遭受外部蠕虫攻击投毒。我们已经在 1 小时内 deprecate 所有受感染的包，在 4 小时内联系上 NPM 官方删除所有受感染的包，目前已经完全解决相关漏洞和安全风险，请受波及的用户及时清除本地缓存重新安装依赖。
+> 📣 2026-05-19 早上 10 点 `@antv` 相关的 NPM 包遭受外部蠕虫攻击投毒。我们已经在 1 小时内 deprecate 所有受感染的包，在 4 小时内联系上 NPM 官方删除所有受感染的包，目前已经完全解决相关漏洞和安全风险，请受波及的用户及时清除本地缓存重新安装依赖。
 
 ----
 
