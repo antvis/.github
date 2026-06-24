@@ -10,7 +10,7 @@ To report a vulnerability, please follow these steps:
 2. Click on the **Advisories** tab.
 3. Click on **Report a vulnerability**.
 
-Alternatively, you can send an email to [pub_antvis@antgroup.com](mailto:pub_antvis@antgroup.com) with a description of the issue, the steps to reproduce it, and the potential impact.
+Alternatively, you can send an email to [antsrc@service.alipay.com](mailto:antsrc@service.alipay.com) with a description of the issue, the steps to reproduce it, and the potential impact.
 
 You can expect a response within 24 hours to acknowledge that we've received your report. If you don't hear back in that time, please reach out to a committer directly to confirm we received your message.
 
