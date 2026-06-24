@@ -34,6 +34,8 @@
 
 Contributions to AntV on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/antvis). ![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
 
+If you discover a security vulnerability, please review our [SECURITY.md](https://github.com/antvis/.github/blob/master/SECURITY.md) for responsible disclosure guidelines.
+
 ## 📣 News
 
 - 🚀 2025 [AntV OSCP Parse4](https://github.com/orgs/antvis/projects/33) is now live! Join us in shaping a more robust open-source documentation ecosystem. Contribute now—and don’t forget to invite your fellow developers!
