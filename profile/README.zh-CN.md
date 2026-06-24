@@ -1,7 +1,5 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](https://github.com/antvis) | 中文
 
-> ‼️注意：受到外部蠕虫攻击影响的影响，AntV 相关的 NPM  包受到污染，现已经将感染的包删除，还剩余部分已设置为 Deprecated，用户注意甄别下载使用最新的 latest 版本，AntV 正在积极联系 NPM 平台进行删除。
-
 <p align="center">
   <a href="https://antv.vision">
     <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
@@ -26,17 +24,11 @@
 
 ## ⛳️ 如何贡献
 
-非常欢迎大家来 GitHub 为 AntV 做贡献，只要是能帮助提升 AntV 的问题讨论、观点、建议，都是非常好的贡献方式，不用犹犹豫豫而不联系[我们](https://github.com/antvis)。![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
+非常欢迎大家来 GitHub 为 AntV 做贡献，只要是能帮助提升 AntV 的问题讨论、观点、建议，都是非常好的贡献方式，不用犹豫而不联系[我们](https://github.com/antvis)。![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
+
+如果你发现了安全漏洞，请查阅 [SECURITY.md](https://github.com/antvis/.github/blob/master/SECURITY.md) 了解负责任披露流程。
 
 ## 📣 相关新闻
 
-- 🎉 2025 AntV [OSCP Season of Docs](https://mp.weixin.qq.com/s/2KmV_lHnwWD3Omw9e7G02w) 活动圆满收官！通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。点击下图回顾精彩内容：
-
-<p align="center">
-  <a href="https://www.openomy.com/party/antvis/31">
-    <img width="80%" src="https://www.openomy.com/party/antvis/oscp-2025/svg">
-  </a>
-</p>
-
-
 - 🚀 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
+- 🔒 2026-05-19 `@antv` 相关 NPM 包遭受蠕虫攻击投毒，4 小时内已全部删除，安全风险已完全解决，请受影响用户清除本地缓存并重新安装依赖。
