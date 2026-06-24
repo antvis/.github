@@ -1,7 +1,5 @@
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](https://github.com/antvis) | 中文
 
-> ‼️注意：受到外部蠕虫攻击影响的影响，AntV 相关的 NPM  包受到污染，现已经将感染的包删除，还剩余部分已设置为 Deprecated，用户注意甄别下载使用最新的 latest 版本，AntV 正在积极联系 NPM 平台进行删除。
-
 <p align="center">
   <a href="https://antv.vision">
     <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
@@ -42,3 +40,4 @@
 
 
 - 🚀 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
+- 🔒 2026-05-19 `@antv` 相关 NPM 包遭受蠕虫攻击投毒，4 小时内已全部删除，安全风险已完全解决，请受影响用户清除本地缓存并重新安装依赖。
