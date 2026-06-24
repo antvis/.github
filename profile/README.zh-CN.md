@@ -30,14 +30,5 @@
 
 ## 📣 相关新闻
 
-- 🎉 2025 AntV [OSCP Season of Docs](https://mp.weixin.qq.com/s/2KmV_lHnwWD3Omw9e7G02w) 活动圆满收官！通过开源社区的力量，共同打造更友好、更易上手的 AntV 文档。点击下图回顾精彩内容：
-
-<p align="center">
-  <a href="https://www.openomy.com/party/antvis/31">
-    <img width="80%" src="https://www.openomy.com/party/antvis/oscp-2025/svg">
-  </a>
-</p>
-
-
 - 🚀 2025 AntV [OSCP Phase4](https://github.com/orgs/antvis/projects/33)，欢迎持续关注、参与贡献，快去告诉你的代码搭子吧！
 - 🔒 2026-05-19 `@antv` 相关 NPM 包遭受蠕虫攻击投毒，4 小时内已全部删除，安全风险已完全解决，请受影响用户清除本地缓存并重新安装依赖。
