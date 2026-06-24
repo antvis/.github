@@ -26,7 +26,9 @@
 
 ## ⛳️ 如何贡献
 
-非常欢迎大家来 GitHub 为 AntV 做贡献，只要是能帮助提升 AntV 的问题讨论、观点、建议，都是非常好的贡献方式，不用犹犹豫豫而不联系[我们](https://github.com/antvis)。![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
+非常欢迎大家来 GitHub 为 AntV 做贡献，只要是能帮助提升 AntV 的问题讨论、观点、建议，都是非常好的贡献方式，不用犹豫而不联系[我们](https://github.com/antvis)。![Welcome](https://img.shields.io/badge/AntV-Welcome-blue?&logo=antv&style=social)
+
+如果你发现了安全漏洞，请查阅 [SECURITY.md](https://github.com/antvis/.github/blob/master/SECURITY.md) 了解负责任披露流程。
 
 ## 📣 相关新闻
 
