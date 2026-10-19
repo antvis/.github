@@ -20,7 +20,7 @@
 - **Series 6**: graph analysis and editing, named from 「Six Degrees of Separation」, contains [G6](https://github.com/antvis/G6), [X6](https://github.com/antvis/X6).
 - **Series 7**: geographical analysis, named from 「The Earth has 7 continents」, contains [L7](https://github.com/antvis/L7).
 - **Series 8**: unstructured data visualization, named from 「Möbius strip」or 「1 byte has 8 bits」, contains [T8](https://github.com/antvis/T8), [A8](https://github.com/antvis/A8), M8, and <img src="https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*EdkXSojOxqsAAAAAQHAAAAgAemJ7AQ/original" width="16" /> [Infographic](https://github.com/antvis/Infographic).
-- **AI-powered intelligent visualization**: contains [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills), [mcp-server-chart](https://github.com/antvis/mcp-server-chart), [AVA](https://github.com/antvis/AVA), [GPT-Vis](https://github.com/antvis/GPT-Vis) and context [retrieval](https://github.com/antvis/chart-visualization-skills#http-context-service) for ai.
+- **AI-powered intelligent visualization**: contains [AVA](https://github.com/antvis/AVA), [GPT-Vis](https://github.com/antvis/GPT-Vis), [chart-visualization-skills](https://github.com/antvis/chart-visualization-skills), [mcp-server-chart](https://github.com/antvis/mcp-server-chart) and context [retrieval](https://github.com/antvis/chart-visualization-skills#http-context-service) for ai.
 - **AI product**: 🪼 [Sive](https://sive.antv.antgroup.com/)，See it Live, Share it Real, an AI data visualization and analytics product.
 
 ## ⛳️ How to Contribute
